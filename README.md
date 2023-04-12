@@ -11,5 +11,8 @@ Third week illustrates the memory types, segments, and subsegments used in embed
 Fourth week is just an assignment that integrates all the learned topics throughout the course.
     
 ![Untitled](https://user-images.githubusercontent.com/82896678/223420385-a6b15b92-5e79-43dc-b7cd-d665c2ffa076.png)
-[1.pdf](https://github.com/yemrebarmanbek/Introductionto-Embedded-Systems-Software-and-Development-Environments/files/11209253/1.pdf)
-[2.pdf](https://github.com/yemrebarmanbek/Introductionto-Embedded-Systems-Software-and-Development-Environments/files/11209254/2.pdf)
+![1](https://user-images.githubusercontent.com/82896678/231410145-8a995602-9424-4c10-830b-71932f4b3e55.png)
+![2](https://user-images.githubusercontent.com/82896678/231410179-8230f718-ba14-4695-935c-ef9592361861.png)
+
+[1.pdf](https://github.com/yemrebarmanbek/Introductionto-Embedded-Systems-Software-and-Development-Environments/files/11209296/1.pdf)
+[2.pdf](https://github.com/yemrebarmanbek/Introductionto-Embedded-Systems-Software-and-Development-Environments/files/11209298/2.pdf)
